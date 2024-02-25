@@ -1,0 +1,36 @@
+h2{
+   font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; 
+   text-align: center;
+   text-shadow: -3px 5px 7px rgb(81, 19, 163);
+}
+
+    h1 { 
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    line-height: 20px;
+    font-size: 40px;
+    text-shadow: -3px 5px 2px rgb(240, 110, 110);}
+
+    div {
+        height: 20px;
+        width: 100%;
+        min-height: 170px;
+        background-color: rgb(174, 183, 187);
+        border-style: dotted  ;      
+        text-align: left;
+    }
+    a:link {
+        color: rgb(138, 46, 95);
+        text-decoration: none;}
+        a:visited {
+        color: black;}
+        a:hover {
+        color: rgb(216, 15, 123);
+        text-decoration: underline;}
+        a:active {
+        color: rgb(106, 241, 241);} 
+   
